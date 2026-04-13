@@ -1,3 +1,4 @@
+
 function calculateResult(){
     let n = document.getElementById("subject").value;
     let i ;
